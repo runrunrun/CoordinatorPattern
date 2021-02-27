@@ -1,2 +1,6 @@
-# CoordinatorPattern
- Coordinator pattern in iOS apps to remove navigation logic from view controllers.
+# DesignPatterns-iOS
+Design patterns in iOS
+
+- Coordinator Pattern
+Simple coordinator example
+![demo](/ScreenShots/CoordinatorSimple.gif)
